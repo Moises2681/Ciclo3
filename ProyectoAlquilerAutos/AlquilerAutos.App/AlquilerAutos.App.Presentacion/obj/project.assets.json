@@ -5841,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
+      "projectUniqueName": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
       "projectName": "AlquilerAutos.App.Presentacion",
-      "projectPath": "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
+      "projectPath": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
       "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\obj\\",
+      "outputPath": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5859,11 +5859,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
-              "projectPath": "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj"
+            "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
+              "projectPath": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj"
             },
-            "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {
-              "projectPath": "D:\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj"
+            "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {
+              "projectPath": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj"
             }
           }
         }

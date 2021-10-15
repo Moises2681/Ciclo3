@@ -10,3 +10,15 @@ D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\De
 D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csproj.CopyComplete
 D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.dll
 D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.pdb
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.deps.json
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.dll
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.pdb
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csprojAssemblyReference.cache
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.AssemblyInfoInputs.cache
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.AssemblyInfo.cs
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csproj.CopyComplete
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.dll
+D:\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.pdb

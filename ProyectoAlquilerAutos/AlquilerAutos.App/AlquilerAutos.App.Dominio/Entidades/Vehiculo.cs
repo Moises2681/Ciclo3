@@ -13,9 +13,9 @@ namespace AlquilerAutos.App.Dominio
 
         // foraneas
 
-        public HojaVida hojaVida {get; set;}
-        public Marca marca {get; set;}
-        public TipoCaja tipoCaja {get; set;}
-        public TipoCombustible tipoCombustible {get; set;}
+        //public HojaVida hojaVida {get; set;}
+        //public Marca marca {get; set;}
+        //public TipoCaja tipoCaja {get; set;}
+        //public TipoCombustible tipoCombustible {get; set;}
     }
 }
