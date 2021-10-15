@@ -23,3 +23,15 @@ C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\A
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csproj.CopyComplete
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.dll
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.pdb
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.AssemblyInfo.cs
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.dll
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.pdb
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.deps.json
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.dll
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.pdb
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Persistencia\obj\Debug\netstandard2.1\AlquilerAutos.App.Persistencia.csproj.CopyComplete

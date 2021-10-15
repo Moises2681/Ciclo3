@@ -173,3 +173,5 @@ C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\A
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.dll
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.pdb
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.genruntimeconfig.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.dll
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.pdb

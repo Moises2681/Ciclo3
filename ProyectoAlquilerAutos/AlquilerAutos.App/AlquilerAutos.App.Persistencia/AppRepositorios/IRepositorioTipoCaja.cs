@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using AlquilerAutos.App.Dominio;
 
-namespace TipoCajaAutos.App.Persistencia.AppRepositorios
+namespace AlquilerAutos.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioTipoCaja
     {

@@ -17,3 +17,12 @@ C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\A
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.deps.json
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.csprojAssemblyReference.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.AssemblyInfo.cs
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
+C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb

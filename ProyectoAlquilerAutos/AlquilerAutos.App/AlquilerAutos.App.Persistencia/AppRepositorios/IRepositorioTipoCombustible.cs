@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using TipoCombustibleAutos.App.Dominio;
+using AlquilerAutos.App.Dominio;
 
-namespace TipoCombustibleAutos.App.Persistencia.AppRepositorios
+namespace AlquilerAutos.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioTipoCombustible
     {
