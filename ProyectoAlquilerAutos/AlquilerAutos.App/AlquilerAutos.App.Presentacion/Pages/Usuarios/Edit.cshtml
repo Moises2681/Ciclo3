@@ -1,0 +1,45 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.EditModel
+@{
+    int usuarioId = Model.usuario.id;
+}
+
+<h2>Edición de los datos del usuario @Model.usuario.cedula @Model.usuario.nombre @Model.usuario.apellido @Model.usuario.direccion @Model.usuario.telefono @Model.usuario.correo</h2>
+<form method="post">
+    <input type="hidden" asp-for="usuario.id" />    
+    <div class="form-group">
+        <label asp-for="usuario.cedula"></label>
+        <input asp-for="usuario.cedula" class="form-control">
+        <span class="text-danger" asp-validation-for="usuario.cedula"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.nombre"></label>
+        <input asp-for="usuario.nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="usuario.nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.apellido"></label>
+        <input asp-for="usuario.apellido" class="form-control">
+        <span class="text-danger" asp-validation-for="usuario.apellido"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.direccion"></label>
+        <input asp-for="usuario.direccion" class="form-control">
+        <span class="text-danger" asp-validation-for="usuario.direccion"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.telefono"></label>
+        <input asp-for="usuario.telefono" class="form-control">
+        <span class="text-danger" asp-validation-for="usuario.telefono"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.correo"></label>
+        <input asp-for="usuario.correo" class="form-control">
+        <span class="text-danger" asp-validation-for="usuario.correo"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Grabar</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de usuarios </a>
+

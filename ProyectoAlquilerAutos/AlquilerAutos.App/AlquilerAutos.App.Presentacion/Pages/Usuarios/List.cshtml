@@ -1,0 +1,33 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.ListModel
+@{
+}
+
+
+<h1>Listado de Usuarios</h1>
+
+<table class="table">
+    @foreach (var usuario in Model.usuarios)
+    {
+        <tr>
+            <td>@usuario.id</td>
+            <td>@usuario.cedula</td>
+            <td>@usuario.nombre</td>
+            <td>@usuario.apellido</td>
+            <td>@usuario.direccion</td>
+            <td>@usuario.telefono</td>
+            <td>@usuario.correo</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-usuarioId="@usuario.id">
+                    Detalle </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-usuarioId="@usuario.id">
+                    Editar
+                </a>
+            </td </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar un usuario</a>

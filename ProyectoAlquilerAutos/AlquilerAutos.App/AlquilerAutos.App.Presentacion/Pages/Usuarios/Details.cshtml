@@ -1,0 +1,29 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.DetailsModel
+@{
+}
+
+<h2>Datos Detallados de Usuario @Model.usuario.cedula @Model.usuario.nombre @Model.usuario.apellido @Model.usuario.direccion @Model.usuario.telefono @Model.usuario.correo</h2>
+<div>
+    ID: @Model.usuario.id
+</div>
+<div>
+    CEDULA: @Model.usuario.cedula
+</div>
+<div>
+    NOMBRES: @Model.usuario.nombre
+</div>
+<div>
+    APELLIDOS: @Model.usuario.apellido
+</div>
+<div>
+    DIRECCIÓN: @Model.usuario.direccion
+</div>
+<div>
+    TELEFONO: @Model.usuario.telefono
+</div>
+<div>
+    CORREO: @Model.usuario.correo
+</div>
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de usuarios.. </a>

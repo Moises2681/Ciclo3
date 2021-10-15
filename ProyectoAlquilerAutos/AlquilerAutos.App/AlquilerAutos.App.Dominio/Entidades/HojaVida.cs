@@ -1,0 +1,12 @@
+using System;
+
+namespace AlquilerAutos.App.Dominio
+{
+    public class HojaVida
+    {
+        public int id {get; set;}
+        public string codigo {get; set;}
+        public DateTime fechaTecnomecanica {get; set;}
+        public DateTime fechaSoat {get; set;}
+    }
+}

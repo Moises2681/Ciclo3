@@ -1,0 +1,9 @@
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.0\AlquilerAutos.App.Dominio.deps.json
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.0\AlquilerAutos.App.Dominio.dll
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.0\AlquilerAutos.App.Dominio.pdb
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.0\AlquilerAutos.App.Dominio.csprojAssemblyReference.cache
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.0\AlquilerAutos.App.Dominio.AssemblyInfoInputs.cache
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.0\AlquilerAutos.App.Dominio.AssemblyInfo.cs
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.0\AlquilerAutos.App.Dominio.csproj.CoreCompileInputs.cache
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.0\AlquilerAutos.App.Dominio.dll
+D:\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.0\AlquilerAutos.App.Dominio.pdb
