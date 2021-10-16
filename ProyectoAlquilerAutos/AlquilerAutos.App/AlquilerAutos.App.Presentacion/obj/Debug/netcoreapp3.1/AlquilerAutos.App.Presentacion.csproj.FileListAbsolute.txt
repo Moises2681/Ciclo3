@@ -175,3 +175,9 @@ C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\A
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.dll
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.pdb
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\AdminHome.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Delete.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Details.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Edit.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\List.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\TipoCajas\Delete.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\TipoCajas\Details.cshtml.g.cs
