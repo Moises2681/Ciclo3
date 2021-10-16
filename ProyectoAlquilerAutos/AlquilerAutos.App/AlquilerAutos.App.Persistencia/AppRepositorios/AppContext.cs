@@ -10,6 +10,8 @@ namespace AlquilerAutos.App.Persistencia.AppRepositorios
         public DbSet<Alquiler> Alquileres {get; set; }
         public DbSet<TipoCaja> TiposCaja {get; set; }
         public DbSet<Marca> Marcas {get; set; }
+        public DbSet<TipoCombustible> TiposCombustible {get; set; }
+        public DbSet<FormaPago> FormasPago {get; set; }
 
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
