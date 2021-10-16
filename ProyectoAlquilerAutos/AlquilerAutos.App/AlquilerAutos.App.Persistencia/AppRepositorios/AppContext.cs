@@ -8,6 +8,8 @@ namespace AlquilerAutos.App.Persistencia.AppRepositorios
         public DbSet<Usuario> Usuarios {get; set;}
         public DbSet<Vehiculo> Vehiculos {get; set;}
         public DbSet<Alquiler> Alquileres {get; set; }
+        public DbSet<TipoCaja> TiposCaja {get; set; }
+        public DbSet<Marca> Marcas {get; set; }
 
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
