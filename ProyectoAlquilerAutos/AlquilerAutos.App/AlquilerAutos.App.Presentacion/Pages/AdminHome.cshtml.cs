@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 
 namespace AlquilerAutos.App.Presentacion.Pages
 {
-    public class PrivacyModel : PageModel
+    public class AdminModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
+        private readonly ILogger<AdminModel> _logger;
 
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        public AdminModel(ILogger<AdminModel> logger)
         {
             _logger = logger;
         }
