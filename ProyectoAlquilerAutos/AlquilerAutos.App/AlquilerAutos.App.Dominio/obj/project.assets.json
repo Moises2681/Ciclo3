@@ -8,28 +8,31 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mlope\\.nuget\\packages\\": {}
+    "C:\\Users\\joano\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
       "projectName": "AlquilerAutos.App.Dominio",
-      "projectPath": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
-      "outputPath": "D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\joano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\joano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +44,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "imports": [
           "net461",
           "net462",
@@ -56,16 +60,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché D:\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

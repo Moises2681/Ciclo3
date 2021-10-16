@@ -157,7 +157,6 @@ C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\A
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.RazorCoreGenerate.cache
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Usuarios\Delete.cshtml.g.cs
@@ -175,3 +174,4 @@ C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\A
 C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.genruntimeconfig.cache
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.dll
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.pdb
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\AdminHome.cshtml.g.cs

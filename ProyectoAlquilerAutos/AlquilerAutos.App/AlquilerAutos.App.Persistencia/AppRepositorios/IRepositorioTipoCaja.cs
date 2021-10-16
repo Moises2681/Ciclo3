@@ -9,7 +9,7 @@ namespace AlquilerAutos.App.Persistencia.AppRepositorios
     {
          // TipoCaja
         TipoCaja AddTipoCaja(TipoCaja tipoCaja);
-        IEnumerable<TipoCaja> GetAllTipoCajas();
+        IEnumerable<TipoCaja> GetAllTiposCaja();
         TipoCaja GetTipoCaja(int idTipoCaja);
         TipoCaja UpdateTipoCaja(TipoCaja tipoCaja);
         void DeleteTipoCaja(int idTipoCaja);

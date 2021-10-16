@@ -9,7 +9,7 @@ namespace AlquilerAutos.App.Persistencia.AppRepositorios
     {
          // TipoCombustible
         TipoCombustible AddTipoCombustible(TipoCombustible tipoCombustible);
-        IEnumerable<TipoCombustible> GetAllTipoCombustibles();
+        IEnumerable<TipoCombustible> GetAllTiposCombustible();
         TipoCombustible GetTipoCombustible(int idTipoCombustible);
         TipoCombustible UpdateTipoCombustible(TipoCombustible tipoCombustible);
         void DeleteTipoCombustible(int idTipoCombustible);
