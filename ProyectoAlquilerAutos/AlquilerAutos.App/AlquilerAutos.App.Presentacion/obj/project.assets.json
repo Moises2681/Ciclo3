@@ -5836,37 +5836,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joano\\.nuget\\packages\\": {}
+    "C:\\Users\\laab0\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
       "projectName": "AlquilerAutos.App.Presentacion",
-      "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
-      "packagesPath": "C:\\Users\\joano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\obj\\",
+      "projectPath": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\AlquilerAutos.App.Presentacion.csproj",
+      "packagesPath": "C:\\Users\\laab0\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\laab0\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj"
+            "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj"
             },
-            "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj"
+            "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj"
             }
           }
         }
@@ -5879,7 +5876,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -5920,7 +5916,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,11 +7,11 @@ namespace AlquilerAutos.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioEstadoAlquiler
     {
-         // Alquiler
+         // EstadoAlquiler
         EstadoAlquiler AddEstadoAlquiler(EstadoAlquiler estadoAlquiler);
-        IEnumerable<EstadoAlquiler> GetAllEstadoAlquileres();
-        Alquiler GetAlquiler(int idAlquiler);
-        Alquiler UpdateAlquiler(Alquiler alquiler);
-        void DeleteAlquiler(int idAlquiler);
+        IEnumerable<EstadoAlquiler> GetAllEstadosAlquiler();
+        EstadoAlquiler GetEstadoAlquiler(int idEstadoAlquiler);
+        EstadoAlquiler UpdateEstadoAlquiler(EstadoAlquiler estadoAlquiler);
+        void DeleteEstadoAlquiler(int idEstadoAlquiler);
     }
 }
