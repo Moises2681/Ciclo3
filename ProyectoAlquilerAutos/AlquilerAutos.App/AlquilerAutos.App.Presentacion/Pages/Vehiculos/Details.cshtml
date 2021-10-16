@@ -1,0 +1,27 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.Vehiculos.DetailsModel
+@{
+}
+
+<h2>Datos Detallados de Vehiculo @Model.vehiculo.placa @Model.vehiculo.modelo @Model.vehiculo.capacidad @Model.vehiculo.color @Model.vehiculo.imagen</h2>
+<div>
+    ID: @Model.vehiculo.id
+</div>
+<div>
+    PLACA: @Model.vehiculo.placa
+</div>
+<div>
+    MODELO: @Model.vehiculo.modelo
+</div>
+<div>
+    CAPACIDAD: @Model.vehiculo.capacidad
+</div>
+<div>
+    COLOR: @Model.vehiculo.color
+</div>
+<div>
+    IMAGEN: @Model.vehiculo.imagen
+</div>
+
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de vehiculos.. </a>

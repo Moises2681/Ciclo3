@@ -8,25 +8,25 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using AlquilerAutos.App.Dominio;
 using AlquilerAutos.App.Persistencia.AppRepositorios;
 
-namespace AlquilerAutos.App.Presentacion.Pages.Usuarios
+namespace AlquilerAutos.App.Presentacion.Pages.Vehiculos
 {
     public class DeleteModel : PageModel
     {
-       private readonly IRepositorioUsuario _appContext;
+       private readonly IRepositorioVehiculo _appContext;
 
         [BindProperty]
-        public Usuario usuario  { get; set; } 
+        public Vehiculo vehiculo  { get; set; } 
 
         public DeleteModel()
         {
-            this._appContext  =new RepositorioUsuario(new AlquilerAutos.App.Persistencia.AppRepositorios.AppContext());
+            this._appContext  =new RepositorioVehiculo(new AlquilerAutos.App.Persistencia.AppRepositorios.AppContext());
         }
     
         //se ejecuta al presionar Eliminar en la lista
-        public IActionResult OnGet(int usuarioId)
+        public IActionResult OnGet(int vehiculoId)
         {
-            usuario = _appContext.GetUsuario(usuarioId);
-            if(usuario == null)
+            vehiculo = _appContext.GetVehiculo(vehiculoId);
+            if(vehiculo == null)
             {
                 return RedirectToPage("./NotFound");
             }
@@ -42,9 +42,9 @@ namespace AlquilerAutos.App.Presentacion.Pages.Usuarios
             {
                 return Page();
             }
-            if(usuario.id > 0)
+            if(vehiculo.id > 0)
             {
-               _appContext.DeleteUsuario(usuario.id);
+               _appContext.DeleteVehiculo(vehiculo.id);
             }
             return Page();
         }

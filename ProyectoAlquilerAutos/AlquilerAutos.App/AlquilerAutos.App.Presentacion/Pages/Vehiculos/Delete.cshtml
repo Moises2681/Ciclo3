@@ -1,0 +1,40 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.Vehiculos.DeleteModel
+
+@{
+    int vehiculoId = Model.vehiculo.id;
+}
+
+<h2>Eliminar Vehiculo @Model.vehiculo.placa @Model.vehiculo.modelo @Model.vehiculo.capacidad @Model.vehiculo.color @Model.vehiculo.imagen</h2>
+<form method="post">
+    <input type="hidden" asp-for="vehiculo.id" />    
+    <div class="form-group">
+        <label asp-for="vehiculo.placa"></label>
+        <input asp-for="vehiculo.placa" class="form-control">
+        <span class="text-danger" asp-validation-for="vehiculo.placa"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="vehiculo.modelo"></label>
+        <input asp-for="vehiculo.modelo" class="form-control">
+        <span class="text-danger" asp-validation-for="vehiculo.modelo"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="vehiculo.capacidad"></label>
+        <input asp-for="vehiculo.capacidad" class="form-control">
+        <span class="text-danger" asp-validation-for="vehiculo.capacidad"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="vehiculo.color"></label>
+        <input asp-for="vehiculo.color" class="form-control">
+        <span class="text-danger" asp-validation-for="vehiculo.color"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="vehiculo.imagen"></label>
+        <input asp-for="vehiculo.imagen" class="form-control">
+        <span class="text-danger" asp-validation-for="vehiculo.imagen"></span>
+    </div>
+
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de vehiculos </a>

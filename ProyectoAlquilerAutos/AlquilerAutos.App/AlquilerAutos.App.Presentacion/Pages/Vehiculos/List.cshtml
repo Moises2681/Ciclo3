@@ -1,0 +1,38 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.Vehiculos.ListModel
+@{
+}
+
+
+<h1>Listado de vehiculos</h1>
+
+<table class="table">
+    @foreach (var vehiculo in Model.vehiculos)
+    {
+        <tr>
+            <td>@vehiculo.id</td>
+            <td>@vehiculo.placa</td>
+            <td>@vehiculo.modelo</td>
+            <td>@vehiculo.capacidad</td>
+            <td>@vehiculo.color</td>
+            <td>@vehiculo.imagen</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-vehiculoId="@vehiculo.id">
+                    Detalle </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-vehiculoId="@vehiculo.id">
+                    Editar
+                </a>
+            </td 
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-vehiculoId="@vehiculo.id">
+                    Eliminar
+                </a>
+            </td
+        </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar un vehiculo</a>

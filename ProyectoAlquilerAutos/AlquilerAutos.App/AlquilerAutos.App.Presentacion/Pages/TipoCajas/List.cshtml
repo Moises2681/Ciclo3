@@ -1,0 +1,34 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.TipoCajas.ListModel
+@{
+}
+
+
+<h1>Listado de Tipo Caja</h1>
+
+<table class="table">
+    @foreach (var tipoCaja in Model.tipoCajas)
+    {
+        <tr>
+            <td>@tipoCaja.id</td>
+            <td>@tipoCaja.marca</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-tipoCajaId="@tipoCaja.id">
+                    Detalle </a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-tipoCajaId="@tipoCaja.id">
+                    Editar
+                </a>
+            </td 
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-tipoCajaId="@tipoCaja.id">
+                    Eliminar
+                </a>
+            </td 
+        </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar un Tipo Caja</a>

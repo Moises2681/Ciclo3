@@ -1,0 +1,19 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.TipoCajas.DeleteModel
+
+@{
+    int tipoCajaId = Model.tipoCaja.id;
+}
+
+<h2>Edición de los datos de Tipo Caja @Model.tipoCaja.marca </h2>
+<form method="post">
+    <input type="hidden" asp-for="tipoCaja.id" />    
+    <div class="form-group">
+        <label asp-for="tipoCaja.marca"></label>
+        <input asp-for="tipoCaja.marca" class="form-control">
+        <span class="text-danger" asp-validation-for="tipoCaja.marca"></span>
+    </div>
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar</a>

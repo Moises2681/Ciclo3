@@ -1,0 +1,14 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.TipoCajas.DetailsModel
+@{
+}
+
+<h2>Datos Detallados @Model.tipoCaja.marca</h2>
+<div>
+    ID: @Model.tipoCaja.id
+</div>
+<div>
+    MARCA: @Model.tipoCaja.marca
+</div>
+
+<a asp-page="./List" class="btn-default">Volver</a>
