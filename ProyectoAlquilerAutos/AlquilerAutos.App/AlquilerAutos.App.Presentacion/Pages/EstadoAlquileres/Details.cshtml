@@ -1,0 +1,14 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.EstadoAlquileres.DetailsModel
+@{
+}
+
+<h2>Datos Detallados @Model.estadoAlquiler.estadoAlquiler</h2>
+<div>
+    ID: @Model.estadoAlquiler.id
+</div>
+<div>
+    ESTADOALQUILER: @Model.estadoAlquiler.estadoAlquiler
+</div>
+
+<a asp-page="./List" class="btn-default">Volver</a>

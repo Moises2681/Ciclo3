@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\laab0\\.nuget\\packages\\": {}
+    "C:\\Users\\mlope\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
+      "projectUniqueName": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
       "projectName": "AlquilerAutos.App.Dominio",
-      "projectPath": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\laab0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laab0\\OneDrive\\Documentos\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\",
+      "projectPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
+      "outputPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laab0\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
