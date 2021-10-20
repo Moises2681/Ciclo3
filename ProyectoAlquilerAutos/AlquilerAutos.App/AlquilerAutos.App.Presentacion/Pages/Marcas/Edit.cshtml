@@ -1,0 +1,20 @@
+﻿@page
+@model AlquilerAutos.App.Presentacion.Pages.TipoCajas.EditModel
+@{
+    int marcaId = Model.marca.id;
+}
+
+<h2>Edición de los datos @Model.marca.marca</h2>
+<form method="post">
+    <input type="hidden" asp-for="marca.id" />    
+    <div class="form-group">
+        <label asp-for="marca.marca"></label>
+        <input asp-for="marca.marca" class="form-control">
+        <span class="text-danger" asp-validation-for="marca.marca"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Grabar</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de marcas </a>
+

@@ -26,3 +26,12 @@ C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerA
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.deps.json
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\bin\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.csprojAssemblyReference.cache
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.AssemblyInfoInputs.cache
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.AssemblyInfo.cs
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.dll
+D:\Ciclo3f\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Dominio\obj\Debug\netstandard2.1\AlquilerAutos.App.Dominio.pdb

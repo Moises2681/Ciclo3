@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using AlquilerAutos.App.Dominio;
 
-namespace AlquilerAutos.App.Persistencia.AppRepositorios
+namespace AlquilerAutos.App.Persistencia
 {
     public class AppContext : DbContext
     {

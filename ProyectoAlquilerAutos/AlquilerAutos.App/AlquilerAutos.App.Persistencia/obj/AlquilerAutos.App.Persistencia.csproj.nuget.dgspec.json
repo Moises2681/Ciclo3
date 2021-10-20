@@ -1,32 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {}
+    "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
+    "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
+        "projectUniqueName": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
         "projectName": "AlquilerAutos.App.Dominio",
-        "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\joano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\",
+        "projectPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
+        "outputPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +35,6 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -54,36 +50,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {
+    "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj",
         "projectName": "AlquilerAutos.App.Persistencia",
-        "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\joano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\obj\\",
+        "projectPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\AlquilerAutos.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\mlope\\.nuget\\packages\\",
+        "outputPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\joano\\Documents\\GitHub\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj"
+              "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj": {
+                "projectPath": "D:\\Ciclo3f\\Ciclo3\\ProyectoAlquilerAutos\\AlquilerAutos.App\\AlquilerAutos.App.Dominio\\AlquilerAutos.App.Dominio.csproj"
               }
             }
           }
@@ -96,7 +89,6 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -134,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
