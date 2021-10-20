@@ -260,3 +260,11 @@ C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerA
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\AlquilerAutos.App.Presentacion.StaticWebAssets.Manifest.cache
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\AlquilerAutos.App.Presentacion.StaticWebAssets.xml
 C:\Users\laab0\OneDrive\Documentos\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\AlquilerAutos.App.Presentacion.genruntimeconfig.cache
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\TipoCajas\Delete.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\TipoCajas\Details.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\TipoCajas\Edit.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\TipoCajas\List.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Delete.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Details.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\Edit.cshtml.g.cs
+C:\Users\joano\Documents\GitHub\Ciclo3\ProyectoAlquilerAutos\AlquilerAutos.App\AlquilerAutos.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vehiculos\List.cshtml.g.cs

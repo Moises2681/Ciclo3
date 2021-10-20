@@ -25,7 +25,7 @@ namespace AlquilerAutos.App.Presentacion.Pages.TipoCajas
 
         public void OnGet(string filtroBusqueda)
         {
-            tipoCajas = _appContext.GetAllTipoCajas();
+            tipoCajas = _appContext.GetAllTiposCaja();
         }
     }
 }

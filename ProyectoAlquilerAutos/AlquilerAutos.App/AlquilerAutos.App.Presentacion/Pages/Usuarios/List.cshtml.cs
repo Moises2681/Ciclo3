@@ -10,7 +10,7 @@ using AlquilerAutos.App.Dominio;
 using AlquilerAutos.App.Persistencia.AppRepositorios;
 using AlquilerAutos.App.Persistencia;
 
-namespace AlquilerAutos.App.Presentacion.Pages
+namespace AlquilerAutos.App.Presentacion.Pages.Usuarios
 {
     public class ListModel : PageModel
     {

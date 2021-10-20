@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using AlquilerAutos.App.Dominio;
 using AlquilerAutos.App.Persistencia.AppRepositorios;
 
-namespace AlquilerAutos.App.Presentacion.Pages
+namespace AlquilerAutos.App.Presentacion.Pages.Usuarios
 {
     public class DetailsModel : PageModel
     {
